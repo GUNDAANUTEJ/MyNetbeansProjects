@@ -1,0 +1,18 @@
+JCF/TestSet.java
+ JCF.TestSet
+JCF/TestQueue.java
+ JCF.TestQueue
+JCF/TestList.java
+ JCF.TestList
+JCF/TestMap.java
+ JCF.TestMap
+JCF/TestLinkedList.java
+ JCF.TestLinkedList
+JCF/Main.java
+ JCF.Main
+JCF/Test.java
+ JCF.Test
+JCF/TestCustomStack.java
+ JCF.TestCustomStack
+JCF/TestCustomQueue.java
+ JCF.TestCustomQueue

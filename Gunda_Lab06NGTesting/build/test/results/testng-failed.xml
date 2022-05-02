@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Gunda_Lab06NGTesting]">
+  <test thread-count="5" name="TestNG tests(failed)">
+    <classes>
+      <class name="banking.AccountNGTest">
+        <methods>
+          <include name="testGenerateStatement"/>
+          <include name="testSetAccountNumber"/>
+          <include name="testSetBalance"/>
+          <include name="setUpClass"/>
+          <include name="testSetHasLimitedWithdrawals"/>
+          <include name="testSetCustomer"/>
+          <include name="testSetTransaction"/>
+          <include name="tearDownClass"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- banking.AccountNGTest -->
+    </classes>
+  </test> <!-- TestNG tests(failed) -->
+</suite> <!-- Failed suite [Gunda_Lab06NGTesting] -->

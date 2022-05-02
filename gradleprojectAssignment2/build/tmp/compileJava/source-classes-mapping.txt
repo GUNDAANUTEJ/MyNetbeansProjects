@@ -1,0 +1,8 @@
+gradleprojectAssignment2/Problem3.java
+ gradleprojectAssignment2.Problem3
+gradleprojectAssignment2/Problem2.java
+ gradleprojectAssignment2.Problem2
+gradleprojectAssignment2/Problem1.java
+ gradleprojectAssignment2.Problem1
+gradleprojectAssignment2/Main.java
+ gradleprojectAssignment2.Main

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pizzas","l":"Sides.Cheese"},{"p":"pizzas","l":"Days"},{"p":"pizzas","l":"Desserts"},{"p":"pizzas","l":"Drinks"},{"p":"pizzas","l":"Order"},{"p":"pizzas","l":"OrdersDriver"},{"p":"pizzas","l":"OrdersSummary"},{"p":"pizzas","l":"PizzaTypes"},{"p":"pizzas","l":"Sauces"},{"p":"pizzas","l":"Sides"}]

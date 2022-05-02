@@ -1,0 +1,9 @@
+cube 8.4
+pentagon 5 3
+tetrahedron 10.8
+triangle 9
+square 14
+hexagon 6 9
+heptagon 7 8
+nonagon 9 5
+decagon 10 6

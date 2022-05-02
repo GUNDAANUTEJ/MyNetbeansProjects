@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"employeeSalary","l":"EmployeeSalary"},{"p":"employeeSalary","l":"EmployeeSalaryDriver"},{"p":"gadgets","l":"Laptop"},{"p":"gadgets","l":"LaptopDriver"}]
