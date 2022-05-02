@@ -1,0 +1,12 @@
+BDOwensLibray 
+1234  
+19.66
+MaryvilleLibrary 
+3429 
+4.66
+OxfordLibrary
+4378329
+89.00
+MITLibrary
+345
+234.45
